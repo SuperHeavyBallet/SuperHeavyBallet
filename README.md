@@ -1,9 +1,20 @@
-My name is Alexander, I am a Web Developer and Indie Game Developer.
+My name is **Alexander G!**
 
-Current languages:
-HTML
-CSS
-JS (Vanilla)
-C#
+### I am an artist and programmer, specialising in:
 
-If you're interested in anything at all, feel free to get in touch!
+# C# 
+- Primarily working within **Unity**
+- Building **2D** and **3D** Platformers and Dungeon Crawlers
+
+# *HTML,CSS,JS* 
+- For Clean **Web Apps**
+- **Online Shops** and **Catalogues** with minimal dynamic content
+- Simple **Startup** and **Advertising** landing pages
+
+# *React* 
+- For more complex **Web Applications**
+- For **Cross Platform** applications
+
+I am constantly learning and improving.
+
+Feel free to get in touch!
