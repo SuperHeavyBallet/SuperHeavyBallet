@@ -1,5 +1,8 @@
 My name is **Alexander G!**
 
+# Current Projects
+- An online catalogue for a retail store, building with React and Vite
+  
 ### I am an artist and programmer, specialising in:
 
 # C# 
