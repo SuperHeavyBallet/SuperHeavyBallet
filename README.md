@@ -1,6 +1,6 @@
-My name is **Alexander G!**
+My name is Alexander Gorham, a web and indie game developer
 
-# Current Projects
+⚙️ **Current Projects** ⚙️
 - An online catalogue for a retail store, building with React and Vite
   
 ### I am an artist and programmer, specialising in:
