@@ -2,7 +2,9 @@ My name is Alexander Gorham, a web & indie game developer and artist.
 
 ⚙️ **Current Projects** ⚙️
 - An online catalogue for a retail store, building with React and Vite
-  
+
+__________________________________________________________________________________
+
 🔧 **My Current Stacks** 🔧
 
 **C#**
@@ -17,6 +19,8 @@ My name is Alexander Gorham, a web & indie game developer and artist.
 **React**
 - For more complex **Web Applications**
 - For **Cross Platform** applications
+
+__________________________________________________________________________________
 
 **Software Used**
 - Ubuntu, Windows
