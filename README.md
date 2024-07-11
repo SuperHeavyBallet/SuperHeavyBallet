@@ -1,9 +1,9 @@
-My name is Alexander Gorham, a web and indie game developer
+My name is Alexander Gorham, a web & indie game developer and artist.
 
 ⚙️ **Current Projects** ⚙️
 - An online catalogue for a retail store, building with React and Vite
   
-### I am an artist and programmer, specialising in:
+🔧 **My Current Stacks** 🔧
 
 # C# 
 - Primarily working within **Unity**
