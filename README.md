@@ -5,18 +5,27 @@ My name is Alexander Gorham, a web & indie game developer and artist.
   
 🔧 **My Current Stacks** 🔧
 
-# C# 
+**C#**
 - Primarily working within **Unity**
 - Building **2D** and **3D** Platformers and Dungeon Crawlers
 
-# *HTML,CSS,JS* 
+**HTML,CSS,JS**
 - For Clean **Web Apps**
 - **Online Shops** and **Catalogues** with minimal dynamic content
 - Simple **Startup** and **Advertising** landing pages
 
-# *React* 
+**React**
 - For more complex **Web Applications**
 - For **Cross Platform** applications
+
+**Software Used**
+- Ubuntu, Windows
+- VS Studio
+- VS Code
+- Unity
+- Adobe Photoshop
+- Adobe Media Encoder
+- Adobe Premiere Pro
 
 I am constantly learning and improving.
 
