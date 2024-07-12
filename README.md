@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - Building **2D** and **3D** Platformers and Dungeon Crawlers
 
 **HTML,CSS,JS**
-- For Clean **Web Apps**
+- For Clean, simple **Web Apps**
 - **Online Shops** and **Catalogues** with minimal dynamic content
 - Simple **Startup** and **Advertising** landing pages
 
