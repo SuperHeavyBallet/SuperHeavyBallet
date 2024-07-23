@@ -2,6 +2,7 @@ My name is Alexander Gorham, a web & indie game developer and artist.
 
 ⚙️ **Current Projects** ⚙️
 - An online catalogue for a retail store, building with React and Vite
+- A grid based, 2d SRPG built in Unity
 
 __________________________________________________________________________________
 
