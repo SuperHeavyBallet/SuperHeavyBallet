@@ -7,19 +7,19 @@ ________________________________________________________________________________
 
 🔧 **My Current Languages** 🔧
 
-# HTML/CSS/JS
+**HTML/CSS/JS**
 The basics, vanilla, it works.
 
-# NodeJS/Express
+**NodeJS/Express**
 The fancier Javascript environments, backend server interaction and logic.
 
-# React / Vite
+**React / Vite**
 Building segmentable pages with independent state control and client side server functions.
 
-# C#
+**C#**
 Mostly used with Unity to build video games, it's a fun language.
 
-# C++
+**C++**
 Currently working with Unreal Engine and learning C++
 __________________________________________________________________________________
 
