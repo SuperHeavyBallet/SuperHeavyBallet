@@ -1,34 +1,28 @@
-My name is Alexander Gorham, a web & indie game developer and artist.
+Hi! My name is Alexander Gorham.
+
+I am interested in basically anything with greater depth than a 2d plane (Although we can of course go into great depth surrounding those!).
+I build websites, web apps, video games, desktop apps... lots of stuff!
+
+🔧 **Most Frequently Used Tools / Languages** 🔧
+
+HTML / CSS / JS
+- React, Vite, Vue, Node.js, Express, TypeScript
+- Unity / C# / .NET
+- SQL / NoSQL / MongoDB
+- Git / GitHub
+- VS Code / VS Studio
+- AI Integration
 
 ⚙️ **Current Projects** ⚙️
-- A Blog Website, Front and Backend with content pulled from MongoDB < IN PROGRESS
-- Unity Built First Person Shooter
 
-__________________________________________________________________________________
+Web Dev
+- Gameification of Szemeredi's Theorem - mostly JS Logic and Algorithms to push data to the page
+- Cathedral of Rot Website - My personal page for my writing work
+- Ready-Go App - A web app designed for Armwrestlers to train their reaction speed
 
-🔧 **My Current Languages** 🔧
-
-**HTML/CSS/JS**
-The basics, vanilla, it works.
-
-**NodeJS/Express**
-The fancier Javascript environments, backend server interaction and logic.
-
-**React / Vite**
-Building segmentable pages with independent state control and client side server functions.
-
-**C#**
-Mostly used with Unity to build video games, it's a fun language.
-
-__________________________________________________________________________________
-
-🧠 **Current Future Plans** 🧠
-
-- A nexus page for my portfolio and collecting all other work directions
-- Browser based JS built procedural displacement maps or height maps generator
-
-
+Game Dev
+- Unity - Wipeout / FZeroX style 3D ARG Racing Game with heavy procedural and customizeable content
+- Unity - First Person Shooter based around Mechs and pew pew.
 
 I am constantly learning and improving.
-
 Feel free to get in touch!
